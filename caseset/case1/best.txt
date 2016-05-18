@@ -1,0 +1,15 @@
+http://bbs.csdn.net/topics/391943287
+1. total cost 43020 repeat_num 1
+2. total cost 43020 repeat_num 1
+3.total cost 43326 repeat_num 1
+4. total cost 43023 repeat_num 2
+
+case1: 重边：1；权重：1714；
+case2: 重边：1；权重：43424；
+case3: 重边：1；权重：43424；
+case4: 重边：1；权重：43425；
+
+case1:                 1                          1411
+case2:                 1                         43020
+case3:                 1                         43221
+case4:                 1                         43221
